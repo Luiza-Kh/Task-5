@@ -1,0 +1,58 @@
+# Query: font-family
+# ContextLines: 1
+
+Результаты: 13 - Файлы 2
+
+Front_Lu\assets\css\style.css:
+   30  .facts-about-me2 {
+   31: font-family: 'Just Me Again Down Here', cursive;
+   32  font-style: normal;
+
+   38      padding: 0px 0px 10px 10px;
+   39:     font-family: 'Just Me Again Down Here', cursive;
+   40      font-style: normal;
+
+   51      top: 45px;
+   52:     font-family: 'Just Me Again Down Here', cursive;
+   53      font-style: normal;
+
+   64      top: 105px;
+   65:     font-family: 'Just Me Again Down Here', cursive;
+   66      font-style: normal;
+
+   83  top: 485px;
+   84: font-family: 'Just Me Again Down Here', cursive;
+   85  font-style: normal;
+
+  147  .certif {
+  148: font-family: 'Just Me Again Down Here', cursive;
+  149  font-style: normal;
+
+  184  .works {
+  185: font-family: 'Just Me Again Down Here', cursive;
+  186  font-style: normal;
+
+  194  top: 15px;
+  195:     font-family: 'Just Me Again Down Here', cursive;
+  196      font-style: normal;
+
+  212  top: 1500px;
+  213: font-family: 'Just Me Again Down Here', cursive;
+  214  font-style: normal;
+
+  222  top: 1550px;
+  223: font-family: 'Just Me Again Down Here', cursive;
+  224  font-style: normal;
+
+  233  top: 1550px;
+  234: font-family: 'Just Me Again Down Here', cursive;
+  235  font-style: normal;
+
+  245  top: 1550px;
+  246: font-family: 'Just Me Again Down Here', cursive;
+  247  font-style: normal;
+
+test-assignment\src\index.css:
+  1  body{
+  2:   font-family: 'Just Me Again Down Here', cursive;
+  3    background-color: #E2E3E4;

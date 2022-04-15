@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&display=swap');
+
+body {
+    border-radius: 0px;
+    background: #80c0d3;
+    margin: 0%;
+}
+
+.wrapper {
+    width: 600px;
+    margin: 30px auto 0;
+    display: grid;
+    gap: 30px;
+    border-radius: 3px;
+}
+
+header.header-wrapper {
+    display: grid;
+    grid-template-columns: auto 10fr;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+}
+
+img.photo {
+    border-radius: 30px;
+}
+
+.position {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.hrs1 {
+    position: static;
+    height: 3px;
+    background: #000000;
+}
+
+.facts-about-me {
+    font-family: 'Just Me Again Down Here', cursive;
+    border-radius: 3px;
+    background: #FFFFFF;
+}
+
+.facts-about-me2 {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+}
+
+.works {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-style: center;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    align-items: center;
+    text-align: center;
+}
+
+
+.certificate {
+    background: #FFFFFF;
+    border-radius: 3px;
+    text-align: center;
+    align-items: center;
+}
+
+.certificate {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-size: 18px;
+    border-radius: 3px;
+    text-align: center;
+    align-items: center;
+}
+
+.table {
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+
+.works {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.wrapperII {
+    color: #80c0d3
+}
+
+.tables {
+    position: relative;
+    font-family: 'Just Me Again Down Here', cursive;
+    font-style: normal;
+    font-size: large;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table td {
+    background-color: rgb(231, 224, 224);
+}
+
+.table th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: left;
+    background-color: rgb(231, 224, 224);
+    border: 3px;
+}
+
+.table tr:nth-child(even) {
+    background-color: rgb(231, 224, 224);
+}
+
+.hrs2 {
+    position: static;
+    height: 3px;
+    background: #000000;
+}
+
+.сontact-with-me {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-style: normal;
+    font-weight: 18;
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+    display: grid;
+    gap: 10px;
+}
+
+.number {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-size: 18px;
+    line-height: 18px;
+    color: #000000;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
